@@ -1,7 +1,4 @@
 /* 
-    Written By :- i) Atul Anand ( 2019ucp1239 )
-                  ii)Raghav Bhandari ( 2019ucp1052 )
-    
     Note :-
         i) Here we consider epsilon by '@' (atTheRate)
             Because epsilon symbol are hard to i/p in C++
